@@ -7,3 +7,5 @@
 7. Implemente um algoritmo para o problema da moeda falsa (fake coin problem).
 8. Implemente um algoritmo para o c ́alculo da mediana que n ̃ao envolva ordenar o conjunto de numeros.
 9. Implemente a estrutura de dados binary search tree e os metodos buscar e inserir.
+10. Busca de elemento em matriz
+11. Soma de elementos das matrizes
